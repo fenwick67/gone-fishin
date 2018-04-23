@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Level.tscn" type="PackedScene" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Level" parent="." index="0" instance=ExtResource( 1 )]
+
+nextLevel = "res://level_3.tscn"
+duration = 40
+waves = 30
+minScore = 30
+levelName = "TWO"
+
+

@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snare.wav-d0219ee6784c24e35e7b2a3ac56fe4d3.sample"
+
+[deps]
+
+source_file="res://snare.wav"
+source_md5="a92937be7825fa7707a63e0cb6178b38"
+
+dest_files=[ "res://.import/snare.wav-d0219ee6784c24e35e7b2a3ac56fe4d3.sample" ]
+dest_md5="375e7dc648d6d15cd021b1544e6ceb34"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
