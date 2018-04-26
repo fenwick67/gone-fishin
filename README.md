@@ -1,5 +1,7 @@
 # gone-fishin
 
+<img src="splash.png" alt="splash screen" style="image-rendering: pixelated;" width="640" height="480"></img>
+
 Gone Fishin is my Ludum Dare 41 entry - and my first Compo entry.
 
 If you're reading this, I'm sorry.  Almost everything is in one directory, and I checked in builds along with the source.
